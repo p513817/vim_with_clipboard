@@ -17,27 +17,27 @@
 
 # Install new one if your vim is not supported (optional)
 
-	Generally, only need to install `vim-gnome`, but I advise to remove all packages of vim in case something went wrong.
+Generally, only need to install `vim-gnome`, but I advise to remove all packages of vim in case something went wrong.
 
-	1. Remove all packages of vim:
-		
-		It will generate `vim_pkgs.txt` which include all packages of vim and there is a double check before remove all.
-		```bash
-		./remove_vim.sh
-		```
+1. Remove all packages of vim:
 
-	2. Install newest vim and vim-gnome:
+	It will generate `vim_pkgs.txt` which include all packages of vim and there is a double check before remove all.
+	```bash
+	./remove_vim.sh
+	```
 
-		There is two way to install vim:
+2. Install newest vim and vim-gnome:
 
-		1. Build from source (not finished):
+	There is two way to install vim:
 
-		```bash
-		./build_from_source.sh
-		```
+	1. Build from source (not finished):
 
-		2. Install from PPA:
-		
-		```bash
-		./install_newest_from_ppa.sh
-		```
+	```bash
+	./build_from_source.sh
+	```
+
+	2. Install from PPA:
+
+	```bash
+	./install_newest_from_ppa.sh
+	```
