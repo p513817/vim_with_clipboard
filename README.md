@@ -17,7 +17,7 @@
 
 # Install new one if your vim is not supported (optional)
 
-Generally, only need to install `vim-gnome`, but I advise to remove all packages of vim in case something went wrong.
+you only need to install `vim-gnome` generally, but I advise to remove all packages of vim in case something went wrong.
 
 1. Remove all packages of vim:
 
