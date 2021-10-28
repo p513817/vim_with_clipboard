@@ -6,7 +6,7 @@
 	vim --version | grep clipboard	
 	```
 
-	[Notice] if vim is supported clipboard, it will show `+clipboard` not `-clipboard`
+	:star: if vim is supported clipboard, it will show `+clipboard` not `-clipboard`
 
 2. Select All -> `ggvG`
 
