@@ -9,7 +9,7 @@ enable "clipboard" option in vim via install 'vim-gnome'.
 	vim --version | grep clipboard	
 	```
 
-	if supported, it will show '+' not '-'
+	[Notice] if vim is supported clipboard, it will show `+clipboard` not `-clipboard`
 
 2. Select All -> `ggvG`
 
