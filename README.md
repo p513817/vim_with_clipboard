@@ -1,6 +1,7 @@
 # Install vim with clipboard
+enable "clipboard" option in vim via install 'vim-gnome'.
 
-# Workflow
+# Copy Content Into System's Clipboard
 
 1. Check is vim supported clipboard
 
@@ -10,7 +11,14 @@
 
 	if supported, it will show '+' not '-'
 
-2. Install new one if your vim is not supported
+2. Select All -> `ggvG`
+
+3. Copy into clipboard -> `"+y`
+
+4. Paste it to anywhere
+
+
+# Install new one if your vim is not supported (optional)
 
 	Generally, only need to install `vim-gnome`, but I advise to remove all packages of vim in case something went wrong.
 
