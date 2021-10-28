@@ -1,6 +1,3 @@
-# Install vim with clipboard
-enable "clipboard" option in vim via install 'vim-gnome'.
-
 # Copy Content Into System's Clipboard
 
 1. Check is vim supported clipboard
