@@ -1,4 +1,4 @@
-# Copy Content To System's Clipboard From V
+# Copy Content To System's Clipboard From Vim
 
 1. Check is vim supported clipboard
 
